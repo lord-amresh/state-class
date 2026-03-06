@@ -1,1 +1,1 @@
-for consistency...nothing else
+i am writing this post for consistency coz i have not done more than 4 day coding streak so.
