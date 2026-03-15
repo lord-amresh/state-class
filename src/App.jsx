@@ -1,13 +1,13 @@
 import './App.css';
 import Counter from './Counter';
 import LikeButton from './LikeButton';
+import TodoList from './TodoList';
 
 
 function App() {
   return(
     <>
-      <p>States in React</p>
-      <LikeButton/>
+      <TodoList/>
     </>
   );
   
